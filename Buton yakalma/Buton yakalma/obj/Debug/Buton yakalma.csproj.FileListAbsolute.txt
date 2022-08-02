@@ -1,0 +1,11 @@
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\bin\Debug\Buton yakalma.exe.config
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\bin\Debug\Buton yakalma.exe
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\bin\Debug\Buton yakalma.pdb
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton yakalma.csproj.AssemblyReference.cache
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton yakalma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton_yakalma.Form1.resources
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton_yakalma.Properties.Resources.resources
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton yakalma.csproj.GenerateResource.cache
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton yakalma.csproj.CoreCompileInputs.cache
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton yakalma.exe
+C:\Users\Nebi Terzi\Desktop\Buton Yakalama Oyunu\Buton yakalma\Buton yakalma\obj\Debug\Buton yakalma.pdb
